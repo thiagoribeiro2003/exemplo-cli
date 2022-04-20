@@ -32,4 +32,4 @@
 `git push -u origin main`
 
 ## Para mais informações de comandos: 
-``
+https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
